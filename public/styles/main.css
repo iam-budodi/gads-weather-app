@@ -1,0 +1,19 @@
+.main-nav {
+    background-color: #01579b;
+}
+
+.city-summary {
+    background-color: #3F729B;
+    padding-left: 16em;
+    padding: 1em 2em;
+    color: #ffffff;
+}
+
+#location_weather .temperature {
+    font-size: 3rem;
+}
+
+/* #icon {
+    background-color: #222121;
+    padding: 0px;
+} */
